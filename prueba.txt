@@ -1,10 +1,7 @@
-asdasd
-
-asdasdasd
-
-
 Este es el segundo commit
 
 y ESTE ES EL ULTIMO EN MAYUS PARA NOTAR LOS CAMBIOS
 
 aqui creo la cabecera para tener las dos mallas
+
+Se borro el texto insensato del txt
