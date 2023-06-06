@@ -4,4 +4,6 @@ y ESTE ES EL ULTIMO EN MAYUS PARA NOTAR LOS CAMBIOS
 
 aqui creo la cabecera para tener las dos mallas
 
+miguelvirtualbox tiene 24 años y nacio para este curso
+
 Se borro el texto insensato del txt
