@@ -1,4 +1,4 @@
-# HYPERBLOG MAHC
+# HYPERBLOG MAHC :tw-1f49a:
 
 Blog diseñado como apoyo para curso de git y github en Platzi.com que lo encuentras a continuación:
 
