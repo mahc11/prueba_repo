@@ -15,3 +15,5 @@ Este curso profundiza sobre temas como:
 - Flujo de trabajo con git y github.
 
 De tal forma aprendi a crear este md asi como uso basico de elementos del mismo como pueden ser los links, **texto en negrita**, listas y otros utiles del archivo.
+
+Creado para el curso del platzi team
