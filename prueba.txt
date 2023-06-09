@@ -7,5 +7,6 @@ aqui creo la cabecera para tener las dos mallas
 miguelvirtualbox tiene 24 años y nacio para este curso, ademas aporta a este poryecto open source
 
 master1
+master2
 
 Se borro el texto insensato del txt
